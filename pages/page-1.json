@@ -1,0 +1,9 @@
+{
+  "id": 1,
+  "title": "My First Page",
+  "date": "2023-09-20",
+  "category": "news,updates",
+  "feature_image": "header.jpg",
+  "excerpt": "This is a sample page...",
+  "content": "<p>HTML content here</p>"
+}
